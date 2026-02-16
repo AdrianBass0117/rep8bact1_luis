@@ -10,7 +10,13 @@
         Bienvenido a la pagina de Luis
     </h1>
     <br>
+    <h2>Futuro Ingeniero en Desarrollo y gestión de Software
+    Inteligente
+    2026
+    </h2>
     <br>
-    <a href="./acercade.php">Ir a Acerca de</a>
+    <img src="./img1.png" alt="img1" width="300px" height="300px">
+    <br><br>
+     <a href="./index.php">Ir a Inicio</a>
 </body>
 </html>
